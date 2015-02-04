@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.Test2",
   "DisplayName": "Test2",
   "Author": "",
-  "Description": "",
+  "Description": "Test2",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
